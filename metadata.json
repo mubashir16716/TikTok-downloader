@@ -1,0 +1,8 @@
+{
+  "name": "CleanReel",
+  "description": "Download TikTok videos without watermark in HD MP4 or MP3 audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
